@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Virus</string>
+    <string name="virus">VIRUS!!!</string>
+    <string name="veil_lifted">"The veil has been lifted!"</string>
+</resources>
